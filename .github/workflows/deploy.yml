@@ -57,6 +57,23 @@ jobs:
         run: |
           npm install --no-save --package-lock=false --no-audit --no-fund playwright@1.58.2
           npx playwright install --with-deps chromium
+      - name: Diagnose mobile overflow elements
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('scripts/browser-qa.mjs')
+          s=p.read_text()
+          needle='  if(response.status()!==200'
+          extra="""  if(data.bodyWidth>width+2){
+    data.offenders=await page.evaluate(()=>[...document.querySelectorAll('body *')]
+      .filter(e=>{const r=e.getBoundingClientRect();return r.right>innerWidth+2&&getComputedStyle(e).display!=='none'})
+      .slice(0,12).map(e=>({tag:e.tagName,class:e.className?.toString().slice(0,80),width:Math.round(e.getBoundingClientRect().width),right:Math.round(e.getBoundingClientRect().right),text:e.textContent?.trim().slice(0,45)})));
+  }
+"""
+          if needle not in s: raise Exception('browser QA insertion marker not found')
+          s=s.replace(needle,extra+needle)
+          p.write_text(s)
+          PY
       - name: Browser QA at 375, 390, 768 and 1440 widths
         run: |
           python3 -m http.server 8765 --bind 127.0.0.1 --directory out >/tmp/punch-server.log 2>&1 &
