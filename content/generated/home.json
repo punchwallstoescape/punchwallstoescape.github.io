@@ -1,0 +1,224 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Punch Walls To Escape Roblox Guide & Wiki",
+  "description": "Find the official Punch Walls To Escape Roblox game and clear guides to codes, beginner tips, tools, and gems. Check the latest verified information.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Independent Roblox game guide · updated November 2026",
+    "heading": "Punch Walls To Escape Roblox Guide",
+    "lead": "Punch Walls To Escape is a Roblox wall-breaking and escape game by nana korobi ya oki. Break walls, collect rubble, sell it at the Grinder and improve your equipment as you work toward the escape goal.",
+    "supportingText": "Use the official Roblox game link or jump straight to Codes, Beginner Guide, Tools or Gems. This is an independent fan guide, not the developer's official website.",
+    "primaryLink": {
+      "label": "Start with the beginner guide",
+      "slug": "beginner-guide"
+    },
+    "secondaryLink": {
+      "label": "Play on Roblox",
+      "url": "https://www.roblox.com/games/90377809955810"
+    }
+  },
+  "sections": [
+    {
+      "id": "what-is",
+      "heading": "What Is Punch Walls To Escape?",
+      "intro": "A quick identity check before you follow a guide.",
+      "paragraphs": [
+        "The target game is the Roblox experience with Root Place ID 90377809955810 and Universe ID 10770256752, attributed to nana korobi ya oki. Those identifiers matter: other Roblox experiences have a very similar name and their walkthroughs may describe completely different mechanics.",
+        "This Punch Walls To Escape guide covers the experience whose published description mentions breaking walls, picking up rubble, selling rubble at the Grinder, upgrading fists and equipment, encountering rare blocks and vaults, and escaping five floors. These are descriptions of the public listing, not a claim that every activity has been re-tested in the current live client."
+      ],
+      "subsections": [
+        {
+          "heading": "The Correct Roblox Game Link",
+          "paragraphs": [
+            "Open https://www.roblox.com/games/90377809955810 to reach the target experience. Check that the Roblox destination includes the exact Place ID before trusting an outside guide. The other similarly named experience uses Place ID 136606353774156 and should not be confused with this one."
+          ]
+        },
+        {
+          "heading": "What the Current Game Description Confirms",
+          "paragraphs": [
+            "The public description mentions the Sledgehammer, TNT and Vacuum alongside fist upgrades. It refers to playing solo or together with up to four friends, rare blocks, vaults and gems. It also mentions a five-floor escape objective. It does not establish exact tool costs, button locations, gem rates or a universal fastest route."
+          ]
+        }
+      ],
+      "table": {
+        "caption": "Punch Walls To Escape game identity (public listings reviewed November 3, 2026)",
+        "columns": [
+          "Field",
+          "Listed information"
+        ],
+        "rows": [
+          [
+            "Game",
+            "Punch Walls To Escape"
+          ],
+          [
+            "Platform",
+            "Roblox"
+          ],
+          [
+            "Developer / group",
+            "nana korobi ya oki"
+          ],
+          [
+            "Root Place ID",
+            "90377809955810"
+          ],
+          [
+            "Universe ID",
+            "10770256752"
+          ],
+          [
+            "Review date",
+            "2026-11-03"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "how-to-start",
+      "heading": "How to Start Playing Punch Walls To Escape",
+      "intro": "Understand the described game loop before searching for advanced tactics.",
+      "paragraphs": [
+        "The publicly listed loop starts with walls and rubble. Break walls, gather the resulting rubble, take it to the Grinder to sell, and use progression systems to improve your equipment. That sequence is an explanation of the described systems, not a verified movement path through a particular room.",
+        "If a guide instructs you to fight guards in a prison cell or to acquire a Bottomless Bucket, check the game ID: those claims belong to another similarly named game and are not supported for this experience."
+      ],
+      "subsections": [
+        {
+          "heading": "Breaking Walls and Collecting Rubble",
+          "paragraphs": [
+            "The game name and the reproduced description both center wall breaking. The description references rubble as a resource. How much rubble drops from each wall, the exact inventory capacity and control keys require a current game-client check."
+          ]
+        },
+        {
+          "heading": "Selling Rubble and Upgrading Equipment",
+          "paragraphs": [
+            "The Grinder is named as the place to sell rubble. The listing also describes upgrading fists and unlocking equipment. Exact menu locations, conversion rates and the best upgrade order are not provided in our source evidence; use the visible in-game prompts for those decisions."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Beginner Guide",
+          "slug": "beginner-guide",
+          "description": "Follow the described wall-breaking, rubble, Grinder and upgrade loop."
+        }
+      ]
+    },
+    {
+      "id": "guides",
+      "heading": "Punch Walls To Escape Guides",
+      "intro": "Choose a topic rather than reading a mixed list of unrelated tips.",
+      "paragraphs": [
+        "Each guide answers a different player question. Codes collects the source-backed announcements and redemption instructions; the beginner page explains the core gameplay; the tools page identifies known equipment; and the gems page separates documented sources from unverified numbers."
+      ],
+      "links": [
+        {
+          "label": "Punch Walls To Escape Codes",
+          "slug": "codes",
+          "description": "Check the announced code and understand the limits of working-code claims."
+        },
+        {
+          "label": "Beginner Guide",
+          "slug": "beginner-guide",
+          "description": "Follow the described wall-breaking, rubble, Grinder and upgrade loop."
+        },
+        {
+          "label": "Tools Guide",
+          "slug": "tools",
+          "description": "Read what is actually known about Sledgehammer, TNT and Vacuum."
+        },
+        {
+          "label": "Gems Guide",
+          "slug": "gems",
+          "description": "Understand the references to rare blocks, vaults and gems."
+        }
+      ]
+    },
+    {
+      "id": "chapter-3",
+      "heading": "What Changed in Chapter 3?",
+      "intro": "The current listing has appeared with a [CH3] prefix and alien-themed wording.",
+      "paragraphs": [
+        "RBLXSTAT reports a title change from CH2 to CH3 on October 31, 2026 and a description update on November 2, 2026. OP.GG mirrors the [CH3] presentation. These third-party change records are signals to check the live Roblox description; they do not, by themselves, justify a detailed chapter walkthrough, boss list or claims about new powers.",
+        "Because the game may change after these updates, confirm what you see in the current Roblox client before applying timing, reward or equipment advice from older videos. This site deliberately does not fabricate a Chapter 3 map or claim that unobserved bosses exist."
+      ]
+    },
+    {
+      "id": "sources",
+      "heading": "Sources and Verification Notes",
+      "intro": "This is an unofficial informational website.",
+      "paragraphs": [
+        "Sources: https://op.gg/roblox/games/10770256752 ; https://rblxstat.com/games/10770256752 ; https://zing.co.uk/industry-resources/roblox/experience/10770256752--ch2-punch-walls-to-escape/ . Checked November 3, 2026. These are third-party records reproducing the game description, not proof of in-game testing.",
+        "Official Roblox destination: https://www.roblox.com/games/90377809955810 . We link to it as the game entry point, not as evidence of a successful live-client test. Details beyond the published description are intentionally left unverified."
+      ]
+    },
+    {
+      "id": "choose-guide",
+      "heading": "Which Punch Walls To Escape Guide Should You Read First?",
+      "intro": "Choose by the specific question you need answered, rather than reading every section in order.",
+      "paragraphs": [
+        "If you have not launched the game, begin with the correct Roblox experience link and the Beginner Guide. That page explains the public description of the wall-breaking loop, how rubble and selling relate to progression, and which decisions still require checking inside the game. It is designed to be useful even when the layout of the current chapter differs from a screenshot in an older walkthrough.",
+        "If you already understand the basics but are looking for a promotion, visit Codes. The codes page separates text appearing in a game listing from codes a third party calls active. A string being listed is not proof that it will redeem for your account. Read its dated source status before spending time repeating a failed attempt.",
+        "If an upgrade screen is your current obstacle, open Tools. It explains the difference between named equipment and facts that have not been verified, such as purchase prices, required levels, exact damage, or the order of unlocks. For rare resources and unclear rewards, use Gems. Keeping these questions in dedicated pages lets each guide give a more precise answer without making the homepage a collection of duplicate articles."
+      ]
+    },
+    {
+      "id": "session-plan",
+      "heading": "A Practical First-Session Plan",
+      "intro": "A short checklist for exploring the game without mistaking assumptions for official mechanics.",
+      "paragraphs": [
+        "First, verify the Roblox game ID before you join. In the correct experience, take a moment to read any instructions the current build presents. Observe which wall or objective is available, what happens after breaking it, and whether rubble is added to an inventory or another resource display. The public description establishes that breaking and collecting matter, but it does not independently establish every on-screen control in the current version.",
+        "Next, locate the place described as the Grinder, and check how the game shows the result of selling rubble. Make one small transaction if you can, and look at the resource total before and after. This simple comparison is more useful than following an unverified guide that promises a particular conversion rate. If the visible game does not match a written instruction, the live game should take priority.",
+        "Finally, look at upgrades and named equipment without assuming that the highest-priced item is the best immediate purchase. Compare the effect of a change using the same kind of wall or objective when possible. Note whether progress feels limited by damage, carrying resources, access to an area, or another system. Only then follow the specialist guide corresponding to your actual bottleneck."
+      ]
+    },
+    {
+      "id": "updates",
+      "heading": "How to Read Chapter and Update Information",
+      "intro": "Version labels are context, not a reason to mix mechanics from unrelated games.",
+      "paragraphs": [
+        "Public listings examined for this project refer to a CH3 update. That label helps identify the recent version of Punch Walls To Escape, but it is not a complete changelog. It cannot tell us the exact configuration of every floor, new object, event reward, or character. If a video or article describes an earlier chapter, treat its UI images and numerical recommendations as potentially outdated until you confirm them in the live game.",
+        "A reliable update check begins with the official experience description and, where available, the developer’s own announcements. Compare the exact Roblox experience ID, publication date, and the subject of the claim. Statements such as a new chapter being available are different from assertions about a particular tool dealing a specific amount of damage. The latter need separate evidence, ideally a direct in-game test.",
+        "Our guides use explicit review dates and qualify uncertain mechanics instead of silently presenting older source material as live verification. Search results can display old snippets after a game changes. When you find conflicting claims, prioritize evidence that matches both the correct experience and a clearly dated current observation."
+      ]
+    },
+    {
+      "id": "safe-resources",
+      "heading": "Safe Sources, Account Security, and Fan-Site Boundaries",
+      "intro": "A useful guide should explain where its information comes from and what it cannot do.",
+      "paragraphs": [
+        "This website is an independent reference, not a Roblox login portal or an official game service. The Play on Roblox button points to the game’s Roblox destination; it does not host a copy of the game, sell currency, or require visitors to provide passwords. For account security, enter credentials only through the legitimate Roblox sign-in process, and be cautious about sites asking for passwords, authentication codes, browser extensions, or account cookies in exchange for game rewards.",
+        "Claims about unlimited gems, automatic code redemption, or guaranteed hidden rewards deserve special scrutiny. None of those outcomes is established by the published description supplied for this project. A trustworthy guide can explain what a game listing mentions, cite a report, and state what remains untested. It should not turn uncertainty into a marketing promise.",
+        "If you are sharing a link to this guide, include the exact page that matches the question. Codes readers benefit from the dated code table, beginners from the progress checklist, and returning players from the dedicated Tools or Gems reference. That is more helpful than circulating an unsourced claim detached from its original context."
+      ]
+    },
+    {
+      "id": "questions-before-guide",
+      "heading": "Questions Worth Checking in the Live Game",
+      "intro": "These observations can turn a general overview into a more precise personal route.",
+      "paragraphs": [
+        "When you play, ask whether each completed action changes a visible resource, opens another wall, or advances a floor objective. Keep those categories separate. Breaking a wall can be part of a larger progress loop, but the public material does not specify that every wall has identical rewards or that all floors use the same access rules. A short note about the precise object and the before-and-after state is enough to avoid drawing conclusions from one surprising result.",
+        "When investigating rare blocks, vaults, and gems, record only what the game actually shows. A visually unusual block is not necessarily a guaranteed gem source. An item described as rare does not imply an established drop percentage. Avoid importing exact rates, costs, or map coordinates from an unrelated game with a similar title.",
+        "If you find a contradiction between the current interface and this guide, treat the current interface as the immediate source for your own gameplay. The site’s information is deliberately organized into dated, attributable descriptions and separate unverified possibilities so readers can identify where independent testing is still needed."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Where can I play Punch Walls To Escape?",
+      "answer": "Open the Roblox experience at https://www.roblox.com/games/90377809955810 (Place ID 90377809955810). This independent guide does not embed or host the game."
+    },
+    {
+      "question": "Who created Punch Walls To Escape?",
+      "answer": "The public listings attribute the targeted Roblox experience to nana korobi ya oki."
+    },
+    {
+      "question": "Is this the same as the other Punch Walls to Escape?",
+      "answer": "No. This guide covers Place ID 90377809955810, not the similarly named experience with Place ID 136606353774156."
+    }
+  ],
+  "screenshots": [],
+  "lastReviewed": "2026-11-03"
+}

@@ -1,0 +1,811 @@
+[
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "Punch Walls To Escape Codes (November 2026)",
+    "description": "Check Punch Walls To Escape codes, source dates, and how to redeem them in Roblox. Code availability can change after game updates.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Roblox guide · source review: November 3, 2026",
+      "heading": "Punch Walls To Escape Codes",
+      "lead": "Punch Walls To Escape Codes are easiest to evaluate when the announcement source and the actual in-game redemption result are kept separate. The published game description mentions SPACEBEE. Its live redemption status has not been independently tested here; reported working-code lists can disagree."
+    },
+    "sections": [
+      {
+        "id": "current-codes",
+        "heading": "Punch Walls To Escape Codes Right Now",
+        "intro": "Evidence and live redemption are different things.",
+        "paragraphs": [
+          "The third-party reproduction of the game description includes SPACEBEE, but a mention in a description does not confirm that a newly joining player can redeem it today. The table labels the evidence precisely instead of presenting untested codes as guaranteed working.",
+          "Pro Game Guides reported SPACEBEE as active and IRONBRASS as expired on November 1, 2026. RBLXSTAT has shown a conflicting working-code status for IRONBRASS and CORAMIXW. We cannot resolve that contradiction without a current successful in-game test."
+        ],
+        "subsections": [
+          {
+            "heading": "Codes Mentioned in the Game Description",
+            "paragraphs": [
+              "SPACEBEE appears in the published listing as reproduced by the game directories. It remains a candidate to try, not a code that this site claims to have personally redeemed."
+            ]
+          },
+          {
+            "heading": "Reported or Expired Codes",
+            "paragraphs": [
+              "IRONBRASS was labeled expired by Pro Game Guides, while another third-party code panel has given a different status. CORAMIXW appears in third-party listings without conclusive verification in the materials reviewed. Neither is presented here as confirmed active."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Source statuses, not verified live redemption results (sources reviewed November 3, 2026)",
+          "columns": [
+            "Code",
+            "Evidence status",
+            "Source",
+            "In-game test"
+          ],
+          "rows": [
+            [
+              "SPACEBEE",
+              "Mentioned in published game description",
+              "OP.GG / RBLXSTAT; checked 2026-11-03",
+              "Not tested"
+            ],
+            [
+              "IRONBRASS",
+              "Conflicting reports; PGG labels expired",
+              "Pro Game Guides 2026-11-01 / RBLXSTAT",
+              "Not tested"
+            ],
+            [
+              "CORAMIXW",
+              "Third-party report only; status uncertain",
+              "RBLXSTAT; checked 2026-11-03",
+              "Not tested"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "redeem",
+        "heading": "How to Redeem Punch Walls To Escape Codes",
+        "intro": "Follow the published walkthrough, checking that your live interface still matches.",
+        "paragraphs": [
+          "Pro Game Guides describes a Codes control on the left side of the game screen, followed by a text field and a Redeem action. This is attributed to its November 1 guide and has not been confirmed against the live interface in this session."
+        ],
+        "steps": [
+          {
+            "heading": "Open the correct Roblox experience",
+            "description": "Use Place ID 90377809955810. A similarly named Roblox experience may have different menus."
+          },
+          {
+            "heading": "Look for the Codes menu",
+            "description": "According to the November 1 Pro Game Guides walkthrough, locate Codes at the left side of the screen. The interface may change."
+          },
+          {
+            "heading": "Enter the code and choose Redeem",
+            "description": "Type the characters exactly and submit. Interpret any result shown by the live game; this website cannot guarantee acceptance or rewards."
+          }
+        ]
+      },
+      {
+        "id": "not-working",
+        "heading": "Why a Punch Walls To Escape Code May Not Work",
+        "intro": "A failed redemption does not always tell you why.",
+        "paragraphs": [
+          "Possible explanations include an expired promotion, a character typed incorrectly, a code previously redeemed on the account, or a temporary client/server issue. These are general possibilities, not verified error codes or enforcement rules for this Roblox experience.",
+          "If your code fails, first compare its spelling with the source, then consult the game’s own published description for newer announcements. Do not trust pages promising unlimited gems or asking for account credentials in exchange for working codes."
+        ]
+      },
+      {
+        "id": "new-codes",
+        "heading": "Where to Check for New Codes",
+        "intro": "Prefer the original announcement to a recycled code list.",
+        "paragraphs": [
+          "Check the official Roblox experience description at https://www.roblox.com/games/90377809955810 and compare it with the current in-game redemption UI. A third-party guide can supply a useful clue, but should not be treated as the game developer’s confirmation.",
+          "Source references: https://progameguides.com/roblox/punch-walls-to-escape-codes/ (November 1, 2026 article); https://op.gg/roblox/games/10770256752 and https://rblxstat.com/games/10770256752 (reviewed November 3, 2026). No reward amount is confirmed by an actual redemption in this review."
+        ],
+        "links": [
+          {
+            "label": "Beginner Guide",
+            "slug": "beginner-guide",
+            "description": "Follow the described wall-breaking, rubble, Grinder and upgrade loop."
+          },
+          {
+            "label": "Gems Guide",
+            "slug": "gems",
+            "description": "Understand the references to rare blocks, vaults and gems."
+          }
+        ]
+      },
+      {
+        "id": "code-status-guide",
+        "heading": "How to Interpret a Code Status Correctly",
+        "intro": "A published string and a successful redemption are different evidence levels.",
+        "paragraphs": [
+          "A code may appear in a game description, in a third-party article, or in a social post without having been tested by this site. Those observations answer different questions. A listing shows that someone published the characters; it does not prove the code remains available. An article calling a code working is a report from that source, and its date matters. Only a successful response in the current game on an eligible account would directly demonstrate redemption at that moment.",
+          "This distinction is particularly important for Punch Walls To Escape because the available reporting about some strings conflicts. A code that one article marked expired may still appear in a different directory panel as working. Neither entry proves that the newer label is correct, and the time of each claim may differ. Instead of merging these into a misleading single Active list, the table above preserves what each source actually reported.",
+          "For your own check, copy the exact characters, use the game’s current redemption control if present, and note what the game returns. An error message may be informative, but without documented error definitions it should not be translated into a definitive explanation. If a code works for you, that is evidence about your attempt, not a guarantee that it will work later or for every player."
+        ]
+      },
+      {
+        "id": "code-troubleshoot",
+        "heading": "A Careful Code Troubleshooting Checklist",
+        "intro": "Work through the simplest checks before assuming a code has expired.",
+        "paragraphs": [
+          "Confirm that you joined the correct Roblox experience. The intended Place ID is 90377809955810. Other similarly named games can have completely different code systems, so trying a string copied from the wrong title is not a meaningful test. Check that you have not followed a third-party link to an unrelated game, and avoid using the look of a thumbnail as your only identity check.",
+          "Next, verify the code characters against the original source. Watch for spaces before or after a copied string, letters that resemble numbers, and older posts that quote an earlier promotion. If the game provides a specific code input field, use that field rather than placing the string in ordinary chat. The Pro Game Guides interface instructions cited here are dated, so defer to the controls visible in your current build.",
+          "If the game rejects the entry, do not repeatedly enter account information elsewhere or install a so-called redeem helper. Consider whether the promotion has ended, your account has already redeemed it, or the current interface differs from an older walkthrough. These are possible explanations, not assertions that the game enforces a particular restriction. Checking an updated developer announcement is more productive than relying on an endlessly repeated third-party list."
+        ]
+      },
+      {
+        "id": "code-record",
+        "heading": "How to Keep a Useful Personal Code Record",
+        "intro": "Track source, date, and result without exposing your account.",
+        "paragraphs": [
+          "A simple note can contain four pieces of information: the code string, the page or announcement where it appeared, the date you checked that source, and the outcome of your own in-game attempt. If the Roblox client displayed a message, record the message in your own words. You do not need to publish your username, session token, email address, or any login information to remember whether you already tried a promotion.",
+          "Keep descriptions such as Mentioned in game listing, Reported active by a third party, Reported expired, and Successfully redeemed in my session separate. These are not interchangeable labels. For example, SPACEBEE appears in reproduced public listing information, while the status of other reported strings requires more caution. Our guide does not claim a current, independently verified redemption for any string.",
+          "When you revisit the game after an update, review your record rather than treating yesterday’s result as permanent. Promotions can be replaced and guides can become outdated. If you share a finding with friends, include the date of the attempt and the source of the string, and do not imply that the outcome is universal."
+        ]
+      },
+      {
+        "id": "code-scams",
+        "heading": "Avoid Fake Codes, Generators, and Account Traps",
+        "intro": "No outside code list should require you to surrender control of your Roblox account.",
+        "paragraphs": [
+          "A legitimate guide can publish a code to type into the game, but it does not need your Roblox password to explain the process. Treat a site that promises unlimited currency after a survey, an extension installation, or a login outside a trusted Roblox flow as a warning sign. Do not provide two-factor codes, recovery details, browser cookies, or private account information to unlock a supposed reward.",
+          "Avoid software marketed as an automatic code cracker or universal reward generator. The available information about Punch Walls To Escape does not establish such a feature, and this guide neither offers nor endorses one. Screen captures of large balances are not proof that a generator is legitimate. An offer that pressures you to act before a countdown expires is also not evidence of a developer-run promotion.",
+          "If you encounter a suspicious link, return to the official Roblox experience page through a trusted route. Check the game description for information actually attributed to the developer. The safest practical action after a failed code is to stop, verify the source and wait for a credible update, not to hand over account access to make the code work."
+        ]
+      },
+      {
+        "id": "codes-and-progress",
+        "heading": "How Codes Fit Into the Overall Progression Guide",
+        "intro": "Treat a code as an optional bonus, not the foundation of your strategy.",
+        "paragraphs": [
+          "The core loop described for Punch Walls To Escape centers on breaking walls, collecting rubble, selling it through the Grinder, and improving equipment. None of those broad activities requires this site to promise a particular code reward. A code might provide an advantage if valid, but the available source evidence does not support assigning a precise value or claiming that a promotion is necessary to complete a floor.",
+          "If you are new, use the Beginner Guide to understand the normal progression first. That gives you a baseline for evaluating any optional reward. If you are comparing spending or upgrade choices, consult the Tools page and use the prices and effects shown in the actual game, rather than importing numbers from an unverified code article.",
+          "Players searching for gems can use the separate Gems guide to understand what is known about rare blocks and vaults. A page listing a code should not quietly convert an unknown reward into a guaranteed gem grant. Keeping those topics separate protects readers from conflating a promotional claim with a normal gameplay system."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is SPACEBEE still active?",
+        "answer": "The public game description mentions SPACEBEE, but it was not successfully redeemed during this review. Try it in the live game and rely on the game’s response."
+      },
+      {
+        "question": "Where is the code redemption menu?",
+        "answer": "Pro Game Guides described a left-side Codes control as of November 1, 2026. The current game UI has not been independently checked here."
+      },
+      {
+        "question": "Is IRONBRASS active?",
+        "answer": "Available third-party reports disagree: Pro Game Guides labels it expired while another panel has shown it as working. We do not claim that it works."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "gems"
+    ],
+    "lastReviewed": "2026-11-03"
+  },
+  {
+    "enabled": true,
+    "slug": "beginner-guide",
+    "pageType": "guide",
+    "navLabel": "Beginner Guide",
+    "title": "Punch Walls To Escape Beginner Guide & Tips",
+    "description": "Learn the Punch Walls To Escape gameplay loop: break walls, collect and sell rubble, upgrade equipment, and work toward escaping five floors.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Roblox guide · source review: November 3, 2026",
+      "heading": "Punch Walls To Escape Beginner Guide",
+      "lead": "This Punch Walls To Escape Beginner Guide explains the documented progression loop without inventing precise controls or map routes. Start with the published wall-breaking and rubble loop. This guide separates description-backed basics from controls, locations and numbers that require in-game testing."
+    },
+    "sections": [
+      {
+        "id": "quick-start",
+        "heading": "Quick Start: Five Simple Goals",
+        "intro": "A high-level orientation, not a claim about fixed button presses or an exact floor route.",
+        "steps": [
+          {
+            "heading": "Enter the right Roblox game",
+            "description": "Check that the experience Place ID is 90377809955810."
+          },
+          {
+            "heading": "Work on breaking walls",
+            "description": "Wall-breaking is the core activity described in the game listing."
+          },
+          {
+            "heading": "Collect the rubble",
+            "description": "The public description names rubble as a resource generated during play."
+          },
+          {
+            "heading": "Sell at the Grinder",
+            "description": "The listing mentions using the Grinder to sell rubble; the precise location is not established here."
+          },
+          {
+            "heading": "Improve equipment and keep progressing",
+            "description": "The description mentions upgrading fists and unlocking tools as you work toward the five-floor escape objective."
+          }
+        ]
+      },
+      {
+        "id": "before-start",
+        "heading": "Before You Start",
+        "intro": "The right game identity prevents misleading advice.",
+        "paragraphs": [
+          "The target Roblox game belongs to the nana korobi ya oki listing and uses Root Place ID 90377809955810. Another game with a similar name uses Place ID 136606353774156 and may feature unrelated prison or guard mechanics. Do not apply those guides to the target experience.",
+          "Open the game from its Roblox page rather than trusting a copied iframe on an unrelated site. The website you are reading is an independent guide, not the official developer or Roblox."
+        ]
+      },
+      {
+        "id": "loop",
+        "heading": "The Basic Punch-and-Sell Loop",
+        "intro": "Break, collect, sell, improve, then continue.",
+        "paragraphs": [
+          "Breaking walls and gathering rubble form the introductory resource loop described by the public game listing. The same description names a Grinder for selling rubble. It does not provide a verified wall-by-wall strategy, a specific grinder location or exact currency conversions."
+        ],
+        "subsections": [
+          {
+            "heading": "Punch Through the Walls",
+            "paragraphs": [
+              "Start by identifying the walls the live game allows you to interact with. The evidence establishes the objective of breaking walls, not a keyboard, touchscreen or controller binding. Follow prompts shown in the current client."
+            ]
+          },
+          {
+            "heading": "Collect Rubble and Use the Grinder",
+            "paragraphs": [
+              "Watch the in-game indication of rubble collected and find the Grinder identified by the game UI. The original description supports rubble collection and selling but no verified exact sell price or carrying capacity."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "upgrades",
+        "heading": "When to Upgrade Your Equipment",
+        "intro": "Upgrade decisions should follow real in-game prices and prompts.",
+        "paragraphs": [
+          "The published description explicitly mentions upgrading fists and references Sledgehammer, TNT and Vacuum. It does not establish a universal optimal purchase order or the current costs of those items. Do not spend based on invented ranking tables."
+        ],
+        "subsections": [
+          {
+            "heading": "Fist Upgrades",
+            "paragraphs": [
+              "Treat increased fist progression as a documented mechanic. Compare the upgrade information shown on your own live screen before committing resources; no exact fist tier list has been verified for this guide."
+            ]
+          },
+          {
+            "heading": "Tools You Can Unlock",
+            "paragraphs": [
+              "Sledgehammer, TNT and Vacuum are names included in the game description. Their precise unlock requirements, inputs and strength numbers remain untested in this review."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Tools Guide",
+            "slug": "tools",
+            "description": "Read what is actually known about Sledgehammer, TNT and Vacuum."
+          }
+        ]
+      },
+      {
+        "id": "gems",
+        "heading": "Finding Gems While You Progress",
+        "intro": "The description connects gems with rare blocks and vaults.",
+        "paragraphs": [
+          "A public description says to find rare blocks and smash vaults for gems. The number you might receive and the way each source is located have not been verified. For the evidence breakdown, use the dedicated gems guide."
+        ],
+        "links": [
+          {
+            "label": "Gems Guide",
+            "slug": "gems",
+            "description": "Understand the references to rare blocks, vaults and gems."
+          }
+        ]
+      },
+      {
+        "id": "friends",
+        "heading": "Playing Alone or With Friends",
+        "intro": "The published listing describes solo play or play with up to four friends.",
+        "paragraphs": [
+          "This is not evidence of a specific multiplayer reward bonus, a matchmaking system or a shared inventory. Those details require a current game-client check. Players seeking to coordinate should follow the game’s own live group and invite prompts."
+        ]
+      },
+      {
+        "id": "five-floors",
+        "heading": "Five-Floor Escape Goal",
+        "intro": "The official-description mirror refers to escaping five floors.",
+        "paragraphs": [
+          "Do not assume that guides written for another similarly named escape game describe the same floor layout. Details such as bosses, time requirements and mandatory purchases have not been established by our source set.",
+          "Source review: Sources: https://op.gg/roblox/games/10770256752 ; https://rblxstat.com/games/10770256752 ; https://zing.co.uk/industry-resources/roblox/experience/10770256752--ch2-punch-walls-to-escape/ . Checked November 3, 2026. These are third-party records reproducing the game description, not proof of in-game testing."
+        ],
+        "links": [
+          {
+            "label": "Punch Walls To Escape Codes",
+            "slug": "codes",
+            "description": "Check the announced code and understand the limits of working-code claims."
+          }
+        ]
+      },
+      {
+        "id": "first-ten-minutes",
+        "heading": "A First Ten-Minute Exploration Checklist",
+        "intro": "Use short observations to learn the current game version instead of memorizing an unverified route.",
+        "paragraphs": [
+          "Before interacting with anything, make sure the Roblox URL contains the intended Place ID and read the visible tutorial if one appears. Look for the resource counters, the area available to you, and any on-screen objective. The game listing supports the general idea of breaking walls and progressing through floors, but it does not provide a complete verified map of the starting room or the buttons shown after the latest update.",
+          "Try a wall-breaking action where the game invites you to do so. Observe whether rubble appears, whether your displayed amount changes, and what happens when you collect it. Do not assume that every wall behaves identically or that an action will always produce the same quantity. These details can change with progression and have not been independently quantified for this guide.",
+          "When you have material to sell, identify the Grinder by the game’s own signage or interface and compare your resources before and after one sale. If there is an upgrade menu, inspect the next available choice before spending. This approach creates a baseline you can use to evaluate future upgrades without relying on unexplained fastest-route claims."
+        ]
+      },
+      {
+        "id": "bottlenecks",
+        "heading": "Find the Bottleneck Before You Upgrade",
+        "intro": "An upgrade decision only makes sense relative to the task slowing you down.",
+        "paragraphs": [
+          "If breaking a wall takes too long, look for an improvement associated with your ability to break walls. If your collected resources regularly reach a limit before you can return to sell them, observe whether the game offers a relevant capacity or collection change. If the difficulty is finding the next objective, a higher tool stat may not solve the problem at all. These are diagnostic questions, not claims that every such upgrade exists in the current build.",
+          "Compare one variable at a time when possible. For example, record how a familiar task feels before and after purchasing an upgrade, while keeping the route and target as similar as you can. Avoid trusting precise efficiency multipliers quoted without a current gameplay demonstration. A change in wall strength between areas could make two attempts impossible to compare fairly.",
+          "Use the Tools guide as a named-equipment reference and confirm prices, prerequisites and effects inside your own session. It is reasonable to plan around the public description’s mention of fist upgrades and named tools, but not to present an unsupported universal purchase order as fact."
+        ]
+      },
+      {
+        "id": "floor-progress",
+        "heading": "Understanding Floors Without Inventing a Map",
+        "intro": "The published game description provides a five-floor goal, not a verified room-by-room walkthrough.",
+        "paragraphs": [
+          "Treat each floor as a new observation task. Identify the visible objective, the obstacles that block movement, and the interactions the current version offers. If an action or doorway seems unavailable, first determine whether you have missed a local prompt or need to complete a nearby task. Do not assume every visual obstruction can be solved through brute force, and do not import prison-escape mechanics from a different Roblox experience.",
+          "Keep a small progression note: which floor you reached, what action advanced you, whether you needed to sell resources or upgrade, and which details are still unclear. That makes it easier to resume after a break and avoids confusing progression knowledge with a code or event reward. It also helps separate actual observations from advice found online.",
+          "Because this guide does not include directly verified floor coordinates, it does not claim a precise shortest path, wall sequence, hidden switch location or numerical requirement. If a new chapter changes the environment, prioritize the instructions in your active game session and treat older tutorials as background only."
+        ]
+      },
+      {
+        "id": "solo-and-friends",
+        "heading": "Playing Solo or With Friends",
+        "intro": "Coordinate around visible objectives rather than assuming unverified multiplayer bonuses.",
+        "paragraphs": [
+          "The public listing describes solo play and cooperation with up to four friends. That supports the idea that players can choose how to approach the experience, but it does not prove that tool damage stacks, rewards are shared, or particular floor gates scale with party size. Such mechanics would require observation in the live Roblox client.",
+          "In a group, communicate which obstacle each person is examining and whether anyone has found a prompt or route forward. Take care not to treat another player’s changed resource amount as proof of a shared reward system. If the game provides its own team indicators or progression messages, use those instead of assumptions copied from a generic multiplayer guide.",
+          "If you prefer solo play, focus on learning the same core sequence at your own pace: understand the wall, collect any rubble, sell when appropriate, and consider upgrades based on the visible progression system. The site does not claim that one party size is always fastest."
+        ]
+      },
+      {
+        "id": "beginner-mistakes",
+        "heading": "Common Beginner Mistakes and Safer Alternatives",
+        "intro": "Avoid errors created by confusing secondhand information with live-game facts.",
+        "paragraphs": [
+          "One common mistake is following a guide for the other similarly named Punch Walls experience. The target game here uses Place ID 90377809955810; the different Wake it UP experience has another ID and mechanics. If a walkthrough mentions guards, a prison cell, or a Bottomless Bucket as though these are confirmed features here, verify the game identity before following it.",
+          "Another mistake is searching for an exact best upgrade before identifying what limits progress in your session. Lists of costs or damage values without dated in-game evidence can mislead you. Instead, observe the current interface, make a small decision you understand, and compare the result. The published description establishes categories of activities, not a tested optimization formula.",
+          "A third mistake is treating any online code as guaranteed. Promotion status changes, and different sources disagree. Visit the Codes page for dated attribution, check the official Roblox listing, and never enter account credentials into a third-party generator. Keep progression instructions, tool choices, and code testing as separate tasks so an error in one source does not derail your whole session."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What should I do first?",
+        "answer": "Open the correct Roblox experience and follow the basic wall-breaking, rubble collection, Grinder and upgrade loop from the published game description."
+      },
+      {
+        "question": "Where can I sell rubble?",
+        "answer": "The public listing mentions the Grinder. Its exact position in the live map was not independently verified here."
+      },
+      {
+        "question": "Can I play with friends?",
+        "answer": "The publicly reproduced game description mentions playing alone or with up to four friends."
+      },
+      {
+        "question": "How many floors are there?",
+        "answer": "The description references five floors, but this is not a verified floor-by-floor walkthrough."
+      }
+    ],
+    "relatedSlugs": [
+      "tools",
+      "gems",
+      "codes"
+    ],
+    "lastReviewed": "2026-11-03"
+  },
+  {
+    "enabled": true,
+    "slug": "tools",
+    "pageType": "guide",
+    "navLabel": "Tools",
+    "title": "Punch Walls To Escape Tools: TNT, Vacuum & More",
+    "description": "Explore the tools named in Punch Walls To Escape, including the Sledgehammer, TNT, and Vacuum. Learn what is confirmed and what to check in game.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Roblox guide · source review: November 3, 2026",
+      "heading": "Punch Walls To Escape Tools Guide",
+      "lead": "This Punch Walls To Escape Tools guide separates named equipment from untested stats and unlock costs. Sledgehammer, TNT and Vacuum appear in the publicly reproduced game description. Exact prices, unlock levels and performance ratings have not been independently tested."
+    },
+    "sections": [
+      {
+        "id": "which-tools",
+        "heading": "Which Tools Are in Punch Walls To Escape?",
+        "intro": "An evidence-led reference list, without invented stats.",
+        "paragraphs": [
+          "The published description includes three equipment names: Sledgehammer, TNT and Vacuum. It also refers to improving fists. The names are supported by publicly accessible directory records reflecting the game description; the exact effects and upgrade trees are not confirmed through our own gameplay tests."
+        ],
+        "subsections": [
+          {
+            "heading": "Sledgehammer",
+            "paragraphs": [
+              "The Sledgehammer is named in the published description. The source does not give a verified per-hit damage value, speed, price or exact unlock location. Check the current in-game description of the item."
+            ]
+          },
+          {
+            "heading": "TNT",
+            "paragraphs": [
+              "TNT appears by name in the listing. We have not measured an explosion radius, cooldown, wall efficiency or availability requirement. Avoid assuming TNT behaves as it does in another Roblox game."
+            ]
+          },
+          {
+            "heading": "Vacuum",
+            "paragraphs": [
+              "Vacuum is another named tool. The listing separately describes rubble collection, but it does not confirm exact Vacuum capacity, pickup rate or controls. Read the current live UI before deciding how to use it."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Documented item names vs unverified gameplay specifications",
+          "columns": [
+            "Equipment",
+            "Name in game description",
+            "Exact stats tested",
+            "Unlock requirement tested"
+          ],
+          "rows": [
+            [
+              "Sledgehammer",
+              "Yes",
+              "No",
+              "No"
+            ],
+            [
+              "TNT",
+              "Yes",
+              "No",
+              "No"
+            ],
+            [
+              "Vacuum",
+              "Yes",
+              "No",
+              "No"
+            ],
+            [
+              "Fist upgrades",
+              "Upgrade mechanic mentioned",
+              "No",
+              "No"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "fist",
+        "heading": "Fist Upgrades and Equipment Progression",
+        "intro": "Use the live game screen for current choices.",
+        "paragraphs": [
+          "The game description specifically refers to upgrading fists. It is reasonable to consider progression as part of the loop, but not to claim a particular damage multiplier, tier cap or most efficient build without controlled gameplay evidence.",
+          "Comparisons become meaningful only when recorded at the same game version with the same assumptions. This guide will not invent a five-star tool rating or a fastest progression route."
+        ]
+      },
+      {
+        "id": "spending",
+        "heading": "What to Check Before Spending Resources",
+        "intro": "Three useful checks a player can make without guessing mechanics.",
+        "bullets": [
+          "Read the current on-screen item name and effect description, rather than relying on an old video title.",
+          "Check the displayed price and whether the game says a prerequisite is needed.",
+          "Verify what resource the purchase consumes; do not assume gems, rubble or another currency are interchangeable.",
+          "If an item changes after a chapter update, prefer what the game currently displays to a third-party ranking."
+        ]
+      },
+      {
+        "id": "rubble",
+        "heading": "How Tools Fit the Rubble Loop",
+        "intro": "Return to the core beginner route when you need context.",
+        "paragraphs": [
+          "The description’s overall loop involves breaking walls, collecting rubble and selling it at the Grinder. Equipment appears within that progression. We cannot infer which named tool is best at collecting or breaking from the mere presence of its name in the listing.",
+          "For a practical start-to-finish introduction read the beginner guide. If you are looking specifically for documented gem sources, the gems guide avoids making unsupported claims about purchases or tool prices."
+        ],
+        "links": [
+          {
+            "label": "Beginner Guide",
+            "slug": "beginner-guide",
+            "description": "Follow the described wall-breaking, rubble, Grinder and upgrade loop."
+          },
+          {
+            "label": "Gems Guide",
+            "slug": "gems",
+            "description": "Understand the references to rare blocks, vaults and gems."
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources and Update Limits",
+        "intro": "Evidence checked November 3, 2026.",
+        "paragraphs": [
+          "Sources: https://op.gg/roblox/games/10770256752 ; https://rblxstat.com/games/10770256752 ; https://zing.co.uk/industry-resources/roblox/experience/10770256752--ch2-punch-walls-to-escape/ . Checked November 3, 2026. These are third-party records reproducing the game description, not proof of in-game testing.",
+          "New tool unlock screenshots, controlled tests and live descriptions would be needed to publish exact speed, cost or ranking tables. The current guide intentionally does not present unavailable numerical data as fact."
+        ]
+      },
+      {
+        "id": "tool-roles",
+        "heading": "What Each Named Tool Might Help You Evaluate",
+        "intro": "Start with the verified names, and check actual functions in the current game.",
+        "paragraphs": [
+          "The public experience description mentions Sledgehammer, TNT and Vacuum, as well as upgrades for punching. That is sufficient to identify these as subjects worth checking, but not sufficient to assign numerical damage, exact carry limits, purchase costs, or unlock levels. A strong Tools guide should make this line clear, especially when social posts describe powerful equipment without a source.",
+          "When you encounter a named tool, read its description or interface label inside the live game. Determine whether it changes a wall-breaking action, resource gathering, or something else. A familiar name in another game does not establish identical behavior here. In particular, do not assume that TNT has a specific blast radius or that Vacuum has a specific collection range until you have seen those effects in this experience.",
+          "If a tool is locked, note the requirement shown in the current interface before searching for a strategy. Separating observed conditions from guesses helps you plan efficiently and makes your notes useful after an update. The goal is to compare meaningful decisions, not to publish a false universal tier list."
+        ]
+      },
+      {
+        "id": "tool-comparison",
+        "heading": "How to Compare Tools Without Fake Statistics",
+        "intro": "Use repeated observations, not invented DPS or cost-per-wall tables.",
+        "paragraphs": [
+          "Choose a task that you can reproduce under similar conditions, such as working on the same visible category of wall. Record what equipment or fist upgrade is active and roughly how long or how many actions the task takes. If the environment offers a health bar or other indicator, record what it actually shows. Do not label these observations official statistics; your equipment, wall, or version may differ from another player’s.",
+          "Next, change only one relevant factor if the game allows it. Compare the same task again, and ask whether the difference is noticeable and consistent. If the test target changes or other players intervene, the result is not a controlled comparison. A visual effect alone does not prove a damage multiplier or area-of-effect rule.",
+          "Finally, consider the opportunity cost of purchasing a tool. The public description describes selling rubble and upgrading, but not the exact economy. Use your displayed currency and item requirements to decide whether the choice fits your current objective. A cheaper improvement that resolves your immediate bottleneck may be more practical than an expensive item with an unknown effect."
+        ]
+      },
+      {
+        "id": "tool-purchase",
+        "heading": "An Upgrade Decision Checklist",
+        "intro": "A clear purchase process is more reliable than an unsupported best-build recommendation.",
+        "paragraphs": [
+          "Before buying, identify the specific task you want to improve. Is the limiting factor how quickly you break obstacles, how efficiently you collect rubble, or whether you can reach the next floor? Then inspect the tool or upgrade in-game: what does the menu actually promise, and what does it cost? Record the information that is visible rather than relying on a screenshot from a different update.",
+          "Look for any prerequisite displayed by the current interface. If the item cannot be selected, do not conclude that you need a particular chapter, badge or hidden event unless the game says so. Guides frequently mistake a temporary UI state for a permanent unlock rule. Check whether the game gives a readable explanation, and keep uncertain requirements as questions rather than facts.",
+          "After purchasing an available change, repeat a familiar task and notice the result. This lets you evaluate progress without publishing artificial per-second figures. If you cannot test immediately, retain the purchase details and return after you reach a suitable comparison point."
+        ]
+      },
+      {
+        "id": "tools-chapter",
+        "heading": "Why Older Chapter Tool Advice Can Be Wrong",
+        "intro": "A title prefix or update note does not validate an older comparison chart.",
+        "paragraphs": [
+          "Public listings reviewed for this project refer to CH3. A new chapter may affect the context in which players use tools, but the available evidence does not detail specific balance changes. For that reason, this page avoids claiming that any named item was buffed, nerfed, added, removed or moved to a particular floor without an attributable current source.",
+          "When reading a recommendation, check which Roblox experience it covers and the date the author actually tested it. A guide may have been republished without new gameplay verification. If it states an exact multiplier or cost, ask whether it shows the corresponding interface. An unexplained number is not made reliable just because it appears in several copied lists.",
+          "Prefer a guide that helps you verify the live menu and describes a repeatable comparison method. If your game differs, use the new observation as the basis of your decision. The purpose of this Tools page is to support that evaluation while the precise values remain unconfirmed."
+        ]
+      },
+      {
+        "id": "tools-safety",
+        "heading": "Tools, Mods, and Third-Party Download Claims",
+        "intro": "Named in-game tools do not justify downloading untrusted external software.",
+        "paragraphs": [
+          "The Sledgehammer, TNT and Vacuum names in the game description refer to game content. They do not imply that a player must install an external program, browser extension, script injector, or separate download to use the experience. Any page offering a guaranteed unlock in exchange for an account login or downloaded executable should be treated with caution.",
+          "If a site promises infinite resources or hidden developer tools, ask whether it links to a verifiable developer announcement and whether the claim is supported inside the actual Roblox experience. This project’s source material does not support such promises. Do not enter authentication codes or provide browser cookies to sites that claim to upgrade your equipment automatically.",
+          "Use the official Roblox game link to play, and use this reference only for explanations. For resource planning, refer to the Beginner Guide; for claims about rare items and gems, consult Gems. Keeping game features and external software separate prevents a normal equipment question from becoming an account-security risk."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does Punch Walls To Escape have TNT?",
+        "answer": "TNT is named in the publicly reproduced game description; exact mechanics were not tested here."
+      },
+      {
+        "question": "Is there a Vacuum?",
+        "answer": "Yes, the published description mentions a Vacuum, but current capacity and controls are not independently verified."
+      },
+      {
+        "question": "What is the best tool?",
+        "answer": "There is no verified controlled comparison in our evidence, so the guide does not claim a best tool."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "gems"
+    ],
+    "lastReviewed": "2026-11-03"
+  },
+  {
+    "enabled": true,
+    "slug": "gems",
+    "pageType": "guide",
+    "navLabel": "Gems",
+    "title": "Punch Walls To Escape Gems: How to Find Them",
+    "description": "Learn the confirmed ways to find gems in Punch Walls To Escape, including rare blocks and vaults, with source notes and links to related guides.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Independent Roblox guide · source review: November 3, 2026",
+      "heading": "How to Get Gems in Punch Walls To Escape",
+      "lead": "This Punch Walls To Escape Gems guide focuses on description-backed sources instead of guessed gem yields. The published game description points players to rare blocks and smashable vaults for gems. Exact amounts, probabilities and gem uses are not confirmed here."
+    },
+    "sections": [
+      {
+        "id": "where-from",
+        "heading": "Where Gems Come From",
+        "intro": "Two gem-related activities appear in the publicly listed game description.",
+        "paragraphs": [
+          "The description says to find rare blocks and smash vaults for gems. That wording supports a relationship between these activities and gems, but it does not establish a guaranteed gem drop for every individual rare block. No verified count per vault or rarity chart is available in our reviewed sources."
+        ],
+        "subsections": [
+          {
+            "heading": "Rare Blocks",
+            "paragraphs": [
+              "Rare blocks are explicitly mentioned in the description alongside the search for gems. Their spawn location, rarity weighting and whether every such block awards gems remain unverified. Do not interpret the name “rare” as a documented drop percentage."
+            ]
+          },
+          {
+            "heading": "Vaults",
+            "paragraphs": [
+              "The description explicitly links smashing vaults with gems. It does not explain the location of each vault, its opening requirements, cooldown, guaranteed payout or number of possible rewards. Follow the actual game client rather than an invented vault route."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Gem source evidence overview · source review 2026-11-03",
+          "columns": [
+            "Source",
+            "Evidence",
+            "Amount verified?",
+            "Steps/location verified?"
+          ],
+          "rows": [
+            [
+              "Rare blocks",
+              "Mentioned with gems in published description",
+              "No",
+              "No"
+            ],
+            [
+              "Vaults",
+              "Smashing vaults mentioned for gems",
+              "No",
+              "No"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "codes",
+        "heading": "Are There Gem Rewards From Codes?",
+        "intro": "A third-party claim is not a verified redemption result.",
+        "paragraphs": [
+          "Pro Game Guides has associated the SPACEBEE code with rewards including gems, but the game description as reproduced in the directories does not independently establish the amount or an actual successful redemption on our account. We therefore do not treat any specific gem reward as confirmed by a live test.",
+          "Check the dedicated Codes page for the source-backed code list, the disagreement between publishers and the reported redemption process. Do not rely on a so-called unlimited-gems generator or give third parties Roblox credentials."
+        ],
+        "links": [
+          {
+            "label": "Punch Walls To Escape Codes",
+            "slug": "codes",
+            "description": "Check the announced code and understand the limits of working-code claims."
+          }
+        ]
+      },
+      {
+        "id": "during-run",
+        "heading": "How Gems Fit Into Your Run",
+        "intro": "What the source does and does not demonstrate.",
+        "paragraphs": [
+          "The public description makes gems relevant to the game’s exploration and vault mechanics. It does not document precisely what gems purchase, whether they unlock equipment or what conversion rates apply. This guide cannot honestly claim an optimal gem spending plan without a current game screen or official explanation.",
+          "A sensible evidence check is to inspect the live game’s own gem-related UI and confirm the purpose before spending. This is a general caution, not a claim that a particular purchase or menu exists."
+        ],
+        "links": [
+          {
+            "label": "Beginner Guide",
+            "slug": "beginner-guide",
+            "description": "Follow the described wall-breaking, rubble, Grinder and upgrade loop."
+          }
+        ]
+      },
+      {
+        "id": "updates",
+        "heading": "Tracking Gem Sources After Updates",
+        "intro": "Record what is observed rather than extrapolating old figures.",
+        "paragraphs": [
+          "When a chapter changes, a useful updated gem guide should record the game version, the exact source observed, how the player reached it, whether the reward was seen on screen and the date. Without those observations, a precise payout table could mislead players.",
+          "The title changed to [CH3] in third-party tracking around October 31, 2026 and a description update was recorded November 2. That is a reason to recheck claims, not evidence that gem quantities changed."
+        ],
+        "table": {
+          "caption": "Checklist for future verified updates",
+          "columns": [
+            "Observation",
+            "What to record"
+          ],
+          "rows": [
+            [
+              "Source",
+              "Rare block or vault, with actual gameplay evidence"
+            ],
+            [
+              "Version",
+              "Visible game version and observation date"
+            ],
+            [
+              "Reward",
+              "On-screen amount or clearly marked unverified"
+            ],
+            [
+              "Route",
+              "Real observed steps rather than a guessed location"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "sources",
+        "heading": "Where These Claims Come From",
+        "intro": "Current published-description mirrors were checked November 3, 2026.",
+        "paragraphs": [
+          "Sources: https://op.gg/roblox/games/10770256752 ; https://rblxstat.com/games/10770256752 ; https://zing.co.uk/industry-resources/roblox/experience/10770256752--ch2-punch-walls-to-escape/ . Checked November 3, 2026. These are third-party records reproducing the game description, not proof of in-game testing.",
+          "Pro Game Guides codes article: https://progameguides.com/roblox/punch-walls-to-escape-codes/ . Third-party code-reward reporting is not equivalent to a directly observed gem reward."
+        ]
+      },
+      {
+        "id": "gem-evidence",
+        "heading": "What Is Actually Known About Gems",
+        "intro": "Separate published game-description terminology from assumptions about drops.",
+        "paragraphs": [
+          "The reproduced public description of Punch Walls To Escape includes gems, rare blocks, and vaults. These terms are enough to establish that players may encounter them in the experience, but they do not document a reliable reward amount, exact acquisition probability, hidden spawn location or minimum upgrade requirement. This page therefore does not turn visual rarity into a claim about guaranteed gem rewards.",
+          "If you see an object that looks rare, note its label and what the current UI allows you to do with it. Observe any inventory or currency counter before and after interacting, where possible. If a number changes, the result is an observation about your session; it does not automatically establish a universal drop rate for everyone.",
+          "Be especially careful with guides that mix the other similarly named Roblox game into their explanations. A claim about prison-area collectibles or guards is not validated for this experience merely by overlapping title words. Confirm the correct Place ID before treating a gem guide as relevant."
+        ]
+      },
+      {
+        "id": "rare-blocks",
+        "heading": "How to Examine Rare Blocks",
+        "intro": "Document the event you see before deciding what reward it implies.",
+        "paragraphs": [
+          "A rare block is a concept mentioned in the published listing, but the term alone does not prove that every rare block gives gems. When you find one, record where it appeared in general terms, what it looked like, and whether you could interact with it. Avoid presenting a single player observation as a fixed map coordinate or scheduled spawn event.",
+          "If you break or open an unusual object, compare your visible counters before and afterward. Check whether the game itself identifies a reward. Without an explicit message, it may be difficult to attribute a change to one interaction, especially when other actions or players are involved. A before-and-after note is useful, but it is not an official probability table.",
+          "If a rare block does not respond as expected, look for an in-game prompt or prerequisite rather than trusting an online shortcut. This guide does not provide a guaranteed rare-block route or claim a certain tool is required. The Tools page offers a way to evaluate available equipment while exact unlock requirements remain unconfirmed."
+        ]
+      },
+      {
+        "id": "vaults",
+        "heading": "Vault Questions to Resolve Inside the Game",
+        "intro": "A vault mention is not a verified unlock walkthrough.",
+        "paragraphs": [
+          "The game description mentions vaults, but the material available to this site does not establish their exact placement, unlocking mechanism or contents. A complete vault walkthrough would need current screenshots or a recorded in-game sequence showing the relevant interactions. Until then, treat statements about passwords, keys, gems and guaranteed rewards as hypotheses rather than confirmed instructions.",
+          "If you encounter a vault, read the visible interface first. Determine whether it shows an objective, a lock state, a resource requirement, or a different interaction. Record the exact wording privately and compare it with any guide that claims to explain the object. If that guide is for a different Roblox experience or an earlier chapter, its instructions might be irrelevant.",
+          "Do not spend real money, provide Roblox login details, or install software because a third-party site claims it can open a vault. This reference does not offer automatic vault access. It provides a cautious observation process and links to the broader progression guide for game systems already described in public material."
+        ]
+      },
+      {
+        "id": "gem-planning",
+        "heading": "How to Plan Around an Uncertain Gem Economy",
+        "intro": "Use visible prices and needs rather than imaginary optimal farming rates.",
+        "paragraphs": [
+          "When you see a gem balance or an item priced in gems, read the exact cost displayed in your current session and identify what you would receive. The published listing does not provide a current gem price catalog. A responsible decision is based on the visible cost and the benefit described in-game, not a fabricated number copied from an unverified forum post.",
+          "Consider whether the item would help with the objective currently limiting your progress. If you are unable to break a wall efficiently, check whether an available upgrade addresses that issue. If you are stuck because you cannot identify a route, currency may not be the answer. These questions apply even when the exact mechanics differ by chapter.",
+          "Keep earned and claimed resources distinct. A promotional code is not a confirmed gem source simply because it exists in an online list, and a vault is not a guaranteed gem drop merely because both terms appear in a description. Consult the dated Codes page for reported strings and the Beginner Guide for the basic rubble-to-upgrades loop."
+        ]
+      },
+      {
+        "id": "gems-scams",
+        "heading": "Free Gems Claims and Security",
+        "intro": "Avoid promises that bypass the game or require Roblox account access.",
+        "paragraphs": [
+          "Pages advertising an unlimited gems generator are not substantiated by the source material reviewed for this project. The presence of gems in a game description does not imply a public external API that can credit accounts. Screenshots of high balances, countdown timers, social-sharing requirements, or surveys should not be treated as evidence that a reward will be granted.",
+          "Never enter your Roblox password, recovery code, two-factor code, session cookie or other private account information into an unrelated site to receive gems. Avoid installing unknown scripts or extensions that advertise automatic resource collection. These requests create account-security risks and do not help verify the legitimate game mechanics.",
+          "The safest route is to join the correct experience through Roblox and check information that the game itself displays. If an outside guide makes a specific claim, look for an attributable source, a date, and an observation that matches the correct game. This Gems page deliberately avoids promising exact yields while those facts remain unverified."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can rare blocks give gems?",
+        "answer": "The published description mentions finding rare blocks and smashing vaults for gems, but it does not prove that every individual rare block guarantees gems."
+      },
+      {
+        "question": "Are vaults related to gems?",
+        "answer": "Yes. The publicly reproduced description specifically mentions smashing vaults for gems."
+      },
+      {
+        "question": "How many gems does each vault give?",
+        "answer": "A reliable per-vault amount has not been verified in the available evidence, so no number is given."
+      }
+    ],
+    "relatedSlugs": [
+      "beginner-guide",
+      "codes",
+      "tools"
+    ],
+    "lastReviewed": "2026-11-03"
+  }
+]
