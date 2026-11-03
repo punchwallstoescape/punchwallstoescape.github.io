@@ -36,6 +36,15 @@ jobs:
           node-version: '22'
       - name: Install locked dependencies
         run: npm ci --no-audit --no-fund
+      - name: Fix nullable navigation argument in source template
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('lib/fixed-template/render.ts')
+          s=p.read_text()
+          s=s.replace('slugOnly(currentSlug);','slugOnly(currentSlug ?? "");')
+          p.write_text(s)
+          PY
       - name: TypeScript
         run: npm run typecheck
       - name: ESLint
@@ -71,7 +80,9 @@ jobs:
             rm -rf qa-screenshots qa-browser-results.json
             git rm site-source.zip
             git add -A
-            git commit -m '1.2'
+            prior=$(git log -1 --format=%s)
+            next_minor=$(( ${prior#*.} + 1 ))
+            git commit -m "1.${next_minor}"
             git push origin HEAD:main
           fi
       - uses: actions/configure-pages@v5
