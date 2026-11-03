@@ -62,7 +62,7 @@ jobs:
           s=p.read_text()
           needle='body[data-fixed-template="guidebook"] .top { position:sticky;top:0;z-index:60; }'
           addition='body[data-fixed-template="guidebook"] .content-card { min-width:0; overflow-wrap:anywhere; }'
-          if addition not in s: s=s.replace(needle,needle+'\\n          '+addition)
+          if addition not in s: s=s.replace(needle,needle+'\n          '+addition)
           p.write_text(s)
           PY
       - name: TypeScript
