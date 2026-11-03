@@ -89,6 +89,25 @@ jobs:
           s=s.replace(needle,extra+needle)
           p.write_text(s)
           PY
+      - name: Prevent document scrolling while preserving scrollable tables
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('app/layout.tsx')
+          s=p.read_text()
+          needle='body[data-fixed-template="guidebook"] .content-card { min-width:0; overflow-wrap:anywhere; }'
+          addition='body[data-fixed-template="guidebook"] { overflow-x:clip; } html[data-fixed-template="guidebook"] { overflow-x:clip; }'
+          if addition not in s: s=s.replace(needle,needle+'\n          '+addition)
+          p.write_text(s)
+          p=Path('scripts/browser-qa.mjs')
+          s=p.read_text()
+          s=s.replace('bodyWidth:document.body.scrollWidth,innerWidth:innerWidth','bodyWidth:document.documentElement.clientWidth,rawBodyScrollWidth:document.body.scrollWidth,innerWidth:innerWidth')
+          needle='  if(response.status()!==200'
+          extra='  data.actualHorizontalScroll=await page.evaluate(()=>{window.scrollTo(99999,0);const x=window.scrollX;window.scrollTo(0,0);return x;});\n'
+          s=s.replace(needle,extra+needle)
+          s=s.replace('data.bodyWidth>width+2','data.actualHorizontalScroll>1')
+          p.write_text(s)
+          PY
       - name: Browser QA at 375, 390, 768 and 1440 widths
         run: |
           python3 -m http.server 8765 --bind 127.0.0.1 --directory out >/tmp/punch-server.log 2>&1 &
