@@ -45,6 +45,26 @@ jobs:
           s=s.replace('slugOnly(currentSlug);','slugOnly(currentSlug ?? "");')
           p.write_text(s)
           PY
+      - name: Fix mobile content cards and table containers
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('components/site/page-sections.tsx')
+          s=p.read_text()
+          s=s.replace('className="content-card"', 'className="content-card min-w-0 break-words"')
+          s=s.replace('className="mt-7 grid gap-5 md:grid-cols-2"', 'className="mt-7 grid min-w-0 gap-5 md:grid-cols-2"')
+          p.write_text(s)
+          p=Path('components/site/data-table.tsx')
+          s=p.read_text()
+          s=s.replace('className="mt-6 overflow-x-auto rounded-theme border border-border"', 'className="mt-6 min-w-0 max-w-full overflow-x-auto rounded-theme border border-border"')
+          p.write_text(s)
+          p=Path('app/layout.tsx')
+          s=p.read_text()
+          needle='body[data-fixed-template="guidebook"] .top { position:sticky;top:0;z-index:60; }'
+          addition='body[data-fixed-template="guidebook"] .content-card { min-width:0; overflow-wrap:anywhere; }'
+          if addition not in s: s=s.replace(needle,needle+'\\n          '+addition)
+          p.write_text(s)
+          PY
       - name: TypeScript
         run: npm run typecheck
       - name: ESLint
