@@ -64,12 +64,7 @@ jobs:
           p=Path('scripts/browser-qa.mjs')
           s=p.read_text()
           needle='  if(response.status()!==200'
-          extra="""  if(data.bodyWidth>width+2){
-    data.offenders=await page.evaluate(()=>[...document.querySelectorAll('body *')]
-      .filter(e=>{const r=e.getBoundingClientRect();return r.right>innerWidth+2&&getComputedStyle(e).display!=='none'})
-      .slice(0,12).map(e=>({tag:e.tagName,class:e.className?.toString().slice(0,80),width:Math.round(e.getBoundingClientRect().width),right:Math.round(e.getBoundingClientRect().right),text:e.textContent?.trim().slice(0,45)})));
-  }
-"""
+          extra="  if(data.bodyWidth>width+2){\n    data.offenders=await page.evaluate(()=>[...document.querySelectorAll('body *')]\n      .filter(e=>{const r=e.getBoundingClientRect();return r.right>innerWidth+2&&getComputedStyle(e).display!=='none'})\n      .slice(0,12).map(e=>({tag:e.tagName,class:e.className?.toString().slice(0,80),width:Math.round(e.getBoundingClientRect().width),right:Math.round(e.getBoundingClientRect().right),text:e.textContent?.trim().slice(0,45)})));\n  }\n"
           if needle not in s: raise Exception('browser QA insertion marker not found')
           s=s.replace(needle,extra+needle)
           p.write_text(s)
