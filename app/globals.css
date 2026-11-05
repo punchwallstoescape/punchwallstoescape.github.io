@@ -144,7 +144,17 @@ html[data-header-style="border"] .site-nav-link {
   border-radius: 0;
 }
 
-[data-native-ad-slot]:empty { display: none; }
+/* Ad wrappers only; never restyle Adsterra creatives or floating UI. */
+.ad-slot { min-width: 0; max-width: 100%; margin: 24px auto; }
+.ad-slot .ad-label { margin: 0 0 8px; text-align: center; font: 10px/16px sans-serif; letter-spacing: .08em; color: hsl(var(--muted-foreground)); }
+.ad-banner-host { display: flex; justify-content: center; min-height: 50px; max-width: 100%; overflow-x: clip; }
+.ad-banner-host > iframe { display: block; flex-shrink: 0; border: 0; max-width: 100%; }
+.ad-native { padding: 12px 0; border-top: 1px solid hsl(var(--border)); border-bottom: 1px solid hsl(var(--border)); }
+[data-native-ad-slot] { min-height: 120px; max-width: 100%; overflow-x: clip; }
+@media (min-width: 768px) {
+  .ad-banner-host { min-height: 90px; overflow-x: visible; }
+  .ad-banner-host > iframe { max-width: none; }
+}
 
 /* Wiki skin — denser editorial layout. Unprefixed rules above stay portal defaults. */
 html[data-skin="wiki"] .site-container {

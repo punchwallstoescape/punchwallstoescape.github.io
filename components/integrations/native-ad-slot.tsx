@@ -1,13 +1,11 @@
-import { integrations } from "@/config/integrations";
+import { nativeAd } from "@/config/adsterra";
 import { NativeAdClient } from "./native-ad-client";
 
 export function NativeAdSlot() {
-  if (integrations.ads.provider !== "adsterra-native") return null;
-
   return (
     <NativeAdClient
-      scriptUrl={integrations.ads.scriptUrl}
-      containerId={integrations.ads.containerId}
+      scriptUrl={nativeAd.scriptUrl}
+      containerId={nativeAd.containerId}
     />
   );
 }

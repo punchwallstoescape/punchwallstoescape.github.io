@@ -1,4 +1,4 @@
-import {NativeAdSlot} from "@/components/integrations/native-ad-slot";
+import {ResponsiveBanner} from "@/components/integrations/responsive-banner";
 import {JsonLd} from "@/components/site/json-ld";
 import {Faq} from "@/components/site/faq";
 import {PageSections} from "@/components/site/page-sections";
@@ -29,8 +29,8 @@ export function FixedTemplateInner({page}:{page:SeoPageDefinition}){
         <h1>{page.hero.heading}</h1>
         <p className="mt-6 max-w-3xl text-lg leading-8">{page.hero.lead}</p>
       </section>
-      <NativeAdSlot/>
-      <PageSections sections={page.sections.filter(s=>Boolean(s.heading?.trim()))}/>
+      <ResponsiveBanner/>
+      <PageSections sections={page.sections.filter(s=>Boolean(s.heading?.trim()))} nativeAdAfterSummary/>
       {page.faq?.length?<Faq items={page.faq}/>:null}
       <RelatedPages pages={related}/>
     </main></>;

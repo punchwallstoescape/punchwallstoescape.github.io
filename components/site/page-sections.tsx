@@ -1,18 +1,24 @@
 import { ArrowRight, CheckCircle2 } from "lucide-react";
 import Link from "next/link";
+import { Fragment } from "react";
 import type { PageSection } from "@/config/types";
 import { routePath } from "@/lib/urls";
 import { DataTable } from "./data-table";
+import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
 
-export function PageSections({ sections }: { sections: PageSection[] }) {
+export function PageSections({ sections, nativeAdAfterSummary = false }: { sections: PageSection[]; nativeAdAfterSummary?: boolean }) {
   return (
     <div className="space-y-16">
-      {sections.map((section) => (
+      {sections.map((section, sectionIndex) => (
         <section id={section.id} key={section.id} className="scroll-mt-24">
           {section.eyebrow ? <p className="eyebrow">{section.eyebrow}</p> : null}
           <h2>{section.heading}</h2>
           {section.intro ? <p className="section-lead">{section.intro}</p> : null}
-          {section.paragraphs?.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+          {nativeAdAfterSummary && sectionIndex === 0 && section.intro ? <NativeAdSlot /> : null}
+          {section.paragraphs?.map((paragraph, paragraphIndex) => <Fragment key={paragraph}>
+            <p>{paragraph}</p>
+            {nativeAdAfterSummary && sectionIndex === 0 && !section.intro && paragraphIndex === 0 ? <NativeAdSlot /> : null}
+          </Fragment>)}
 
           {section.bullets?.length ? (
             <ul className="mt-4 space-y-2">

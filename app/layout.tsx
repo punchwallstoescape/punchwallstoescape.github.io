@@ -1,5 +1,6 @@
 import type { CSSProperties, ReactNode } from "react";
 import { Analytics } from "@/components/integrations/analytics";
+import { SocialBar } from "@/components/integrations/social-bar";
 import { SiteFooter } from "@/components/site/site-footer";
 import { SiteHeader } from "@/components/site/site-header";
 import { siteConfig } from "@/config/site";
@@ -65,6 +66,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <SiteHeader links={navLinks} />
         <div id="main-content">{children}</div>
         {fixed && fixedSkin === "arcade-play" ? null : <SiteFooter coreLinks={navLinks} legalLinks={legalLinks} />}
+        <SocialBar />
       </body>
     </html>
   );

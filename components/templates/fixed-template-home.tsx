@@ -1,4 +1,4 @@
-import {NativeAdSlot} from "@/components/integrations/native-ad-slot";
+import {ResponsiveBanner} from "@/components/integrations/responsive-banner";
 import {Faq} from "@/components/site/faq";
 import {JsonLd} from "@/components/site/json-ld";
 import {PageSections} from "@/components/site/page-sections";
@@ -36,8 +36,8 @@ export function FixedTemplateHome({home}:{home:HomePageDefinition}){
           <img className="w-full rounded-theme object-cover" src={assetPath(siteConfig.assets.cover)} alt={siteConfig.game.name+" guide cover (illustration, not gameplay screenshot)"} />
         </div>
       </section>
-      <NativeAdSlot/>
-      <PageSections sections={home.sections.filter(s=>Boolean(s.heading?.trim()))}/>
+      <ResponsiveBanner/>
+      <PageSections sections={home.sections.filter(s=>Boolean(s.heading?.trim()))} nativeAdAfterSummary/>
       {home.screenshots.length?<section className="space-y-5">
         <h2>Game screenshots</h2>
         <div className="grid gap-4 sm:grid-cols-2">
